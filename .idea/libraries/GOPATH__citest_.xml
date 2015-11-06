@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;citest&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gopherCITest" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../gopherCITest/.git" />
+      <root url="file://$PROJECT_DIR$/../gopherCITest/.idea" />
+      <root url="file://$PROJECT_DIR$/../gopherCITest/GopherCITest/.git" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </excluded>
+  </library>
+</component>
