@@ -1,0 +1,6 @@
+language: go
+notificaitons:
+  email:
+    recipients: idam@fdbhealth.com
+    on_success: change
+    on_failure: always
