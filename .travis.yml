@@ -1,6 +1,10 @@
 language: go
+  - tip
 notificaitons:
   email:
     recipients: idam@fdbhealth.com
     on_success: change
     on_failure: always
+
+go_import_path:
+  citest
